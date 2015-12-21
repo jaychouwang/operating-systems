@@ -1,0 +1,56 @@
+
+—-gcc.trace—-
+
+opt
+Number of frames 8
+Total memory accesses: 1000000
+Total page faults: 544651
+Total writes to disk: 64037
+
+opt
+Number of frames 16
+Total memory accesses: 1000000
+Total page faults: 490406
+Total writes to disk: 55617
+
+opt
+Number of frames 32
+Total memory accesses: 1000000
+Total page faults: 438057
+Total writes to disk: 49624
+
+opt
+Number of frames 64
+Total memory accesses: 1000000
+Total page faults: 392444
+Total writes to disk: 43240
+
+—-gcc.trace—-
+
+—-swim.trace—-
+
+opt
+Number of frames 8
+Total memory accesses: 1000000
+Total page faults: 621616
+Total writes to disk: 54181
+
+opt
+Number of frames 16
+Total memory accesses: 1000000
+Total page faults: 525735
+Total writes to disk: 52350
+
+opt
+Number of frames 32
+Total memory accesses: 1000000
+Total page faults: 351683
+Total writes to disk: 49306
+
+opt
+Number of frames 64
+Total memory accesses: 1000000
+Total page faults: 242304
+Total writes to disk: 48041
+
+—-swim.trace—-
